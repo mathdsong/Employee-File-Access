@@ -1,0 +1,9 @@
+.env
+src/main/webapp/META-INF/
+src/main/webapp/WEB-INF/employeeFolders/
+src/main/webapp/WEB-INF/lib/
+.classpath
+.env
+.project
+.settings
+build/
